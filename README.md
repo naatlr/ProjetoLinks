@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto teleriomeier" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,8 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://naatlr.github.io/ProjetoLinks/)
+- [Acesse o projeto finalizado, online](https://naatlr.github.io/teleriomeier/)
 
 Aprendizado pela Rocketseat!
-# teleriomeier
 # teleriomeier
